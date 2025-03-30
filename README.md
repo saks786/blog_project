@@ -21,9 +21,13 @@ Tech Stack
 Installation
 
 1. Clone the Repository:
+    
     git clone https://github.com/saks786/blog_project.git
+    
     cd blog_project
 2. Libraries requires:
+    
     pip install django djangorestframework requests
 3. Start the Server
+    
     python manage.py runserver

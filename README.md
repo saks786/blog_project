@@ -4,8 +4,6 @@ Features
 
 ✅ View all Futurama episodes – Titles, descriptions, and air dates
 
-✅ Search for episodes – Easily find your favorite episode
-
 ✅ Click to view details – Open a dedicated page for each episode
 
 Tech Stack

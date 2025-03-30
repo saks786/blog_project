@@ -24,8 +24,10 @@ Installation
     
     cd blog_project
 2. Libraries requires:
-    
-    pip install django djangorestframework requests
-3. Start the Server
+
+    Python version: 3.10
+
+   pip install django djangorestframework requests os
+4. Start the Server
     
     python manage.py runserver

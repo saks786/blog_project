@@ -39,6 +39,10 @@ Deployment on AWS using AWS ElasticBeanstalk service
    ![image](https://github.com/user-attachments/assets/79ec6f00-bb69-4eba-8495-210c0ecb7045)
    ![image](https://github.com/user-attachments/assets/67b7b033-1487-4fd7-b7f8-d60ab373a776)
 
+   AWS ElasticBeanstalk link- http://Sky-django-env.eba-m3bvmjpu.us-east-1.elasticbeanstalk.com
+
+   Main focus for deploying it on AWS was to provide uptime to the website without any kind of failure. The website will be available and run till the servers are on, if the servers are off then their will be the downtime for the website.
+
 
 
 

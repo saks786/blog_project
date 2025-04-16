@@ -31,3 +31,5 @@ Installation
 4. Start the Server
     
     python manage.py runserver
+   ![image](https://github.com/user-attachments/assets/58103c9e-4281-4bab-90e5-5a4d1e055b1f)
+

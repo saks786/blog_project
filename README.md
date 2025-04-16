@@ -31,5 +31,15 @@ Installation
 4. Start the Server
     
     python manage.py runserver
+
+Deployment on AWS using AWS ElasticBeanstalk service
    ![image](https://github.com/user-attachments/assets/58103c9e-4281-4bab-90e5-5a4d1e055b1f)
+   ![image](https://github.com/user-attachments/assets/b31f0283-adff-4590-b0c5-651defc21dc4)
+   ![image](https://github.com/user-attachments/assets/cfae8995-50a7-4105-8a31-190ec20e3c70)
+   ![image](https://github.com/user-attachments/assets/79ec6f00-bb69-4eba-8495-210c0ecb7045)
+   ![image](https://github.com/user-attachments/assets/67b7b033-1487-4fd7-b7f8-d60ab373a776)
+
+
+
+
 
